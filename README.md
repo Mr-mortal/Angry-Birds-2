@@ -1,2 +1,2 @@
-# Angry-Birds-2
-here we added a line infront of red angry bird
+# angryBirdsStage2.5
+Angry Birds stage 2.5 with Class Inheritance and Images
